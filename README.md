@@ -5,12 +5,12 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Front-End+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Web+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;Mobile+App+Developer+%F0%9F%93%B1;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
+<!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=RaizaKhalid12&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiza-khalid-0791ba2b6/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raizakhalid.carrd.co/)
@@ -20,28 +20,44 @@
 
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
 ## 🙋‍♀️ About Me
+
+<div align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380"/>
+</div>
+
+<br/>
 
 ```javascript
 const raiza = {
-  name: "Raiza Khalid",
-  university: "COMSATS University Islamabad, Lahore Campus",
-  degree: "BS Computer Science",
-  passion: ["Web Development", "Problem Solving", "Open Source"],
-  portfolio: "https://raizakhalid.carrd.co/",
-  currentlyLearning: ["React", "Node.js", "Data Structures"],
-  funFact: "I debug with coffee ☕ and determination 💪"
+  name        : "Raiza Khalid",
+  university  : "COMSATS University Islamabad, Lahore Campus",
+  degree      : "BS Computer Science",
+  portfolio   : "https://raizakhalid.carrd.co/",
+  exploring   : ["AI & Machine Learning", "Data Science",
+                 "Web Development", "Mobile App Development"],
+  funFact     : "I debug with coffee ☕ and determination 💪"
 };
 ```
 
-- 🎓 Studying **BS Computer Science** at **COMSATS University, Lahore**
-- 💡 Passionate about building clean and creative web experiences
-- 🌱 Currently leveling up my **Full Stack Development** skills
+- 🎓 Studying **BS Computer Science** at **COMSATS University Islamabad, Lahore Campus**
+- 🤖 Currently exploring **AI & Machine Learning** and **Data Science**
+- 🌐 Building projects in **Web Development** & **Mobile App Development**
 - 🤝 Open to collaborating on interesting projects
 - 📫 Reach me at: **[raizakhalid.carrd.co](https://raizakhalid.carrd.co/)**
+
+---
+
+## 🔭 Currently Exploring
+
+<div align="center">
+
+| 🤖 AI & Machine Learning | 📊 Data Science | 🌐 Web Development | 📱 Mobile Apps |
+|:---:|:---:|:---:|:---:|
+| Neural Networks | Data Analysis | React & Node.js | Cross-platform Apps |
+| ML Algorithms | Data Visualization | REST APIs | UI/UX Design |
+
+</div>
 
 ---
 
@@ -80,17 +96,9 @@ const raiza = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaizaKhalid12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaizaKhalid12&theme=tokyonight&hide_border=true" />
 
+<br/>
+
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaizaKhalid12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RaizaKhalid12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
 
 </div>
 
@@ -100,11 +108,12 @@ const raiza = {
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
-|:---:|:---:|:---:|
-| [🌐 Portfolio Website](https://raizakhalid.carrd.co/) | My personal portfolio showcasing my work | HTML, CSS, JavaScript |
-| 🔒 Coming Soon | Exciting project in progress... | React, Node.js |
-| 🔒 Coming Soon | Exciting project in progress... | Python, MySQL |
+| # | 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
+|:---:|:---:|:---:|:---:|:---:|
+| 1 | **Project Name Here** | Short description of what this project does | HTML, CSS, JS | [View](#) |
+| 2 | **Project Name Here** | Short description of what this project does | Python, MySQL | [View](#) |
+| 3 | **Project Name Here** | Short description of what this project does | React, Node.js | [View](#) |
+| 4 | **Project Name Here** | Short description of what this project does | AI/ML, Python | [View](#) |
 
 </div>
 
