@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Raiza Khalid 👋
 
-<!--
-**RaizaKhalid12/RaizaKhalid12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Learning AI Automation & Lead Generation
+
+⚡ Building n8n Workflows
+
+🌱 Currently Learning:
+- Python
+- Git & GitHub
+- n8n
+- AI Agents
+
+🎯 Goal:
+Build AI-powered automation systems and become a top freelancer.
+
+## 🛠️ Skills
+
+- Python
+- GitHub
+- n8n
+- Lead Generation
+- AI Automation
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/raiza-khalid-8051a3316
