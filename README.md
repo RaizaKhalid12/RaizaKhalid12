@@ -4,7 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12,19,24&height=200&section=header&text=Raiza%20Khalid&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Explorer&descAlignY=62&descSize=20&stroke=00BCD4&strokeWidth=2"/>
 
 <!-- Animated Typing -->
-<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=00BCD4&center=true&vCenter=true&width=700&lines=🎓+CS+Student+@+COMSATS+University+Lahore;🌐+Web+Developer+%7C+AI+%26+ML+Enthusiast;📊+Data+Science+Explorer;📱+Mobile+App+Developer;✨+Building+things+that+matter" alt="Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=00BCD4&center=true&vCenter=true&width=700&lines=CS+Student+%40+COMSATS+Lahore;Web+Developer+%7C+AI+%26+ML+Enthusiast;Data+Science+Explorer;Mobile+App+Developer;Building+things+that+matter)" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=00BCD4&center=true&vCenter=true&width=700&lines=CS+Student+%40+COMSATS+Lahore;Web+Developer+%7C+AI+%26+ML+Enthusiast;Data+Science+Explorer;Mobile+App+Developer;Building+things+that+matter" />
+
 
 <br/>
 
