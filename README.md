@@ -1,31 +1,23 @@
-# Hi, I'm Raiza Khalid 👋
+# Hi, I'm Raiza 👋
 
-## 👩‍💻 About Me
+💻 MERN Stack Developer  
+📊 Exploring Data Science  
+🤖 Interested in AI & Automation  
+🎯 Focused on building clean & scalable apps  
 
-🎓 Computer Science Student
+---
 
-🤖 Learning AI Automation & Lead Generation
+## 🚀 Skills
+- JavaScript | React | Node.js | Express
+- MongoDB | REST APIs
+- Python (basic Data Science)
 
-⚡ Building n8n Workflows
+---
 
-🌱 Currently Learning:
-- Python
-- Git & GitHub
-- n8n
-- AI Agents
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=RaizaKhalid12&show_icons=true)
 
-🎯 Goal:
-Build AI-powered automation systems and become a top freelancer.
+---
 
-## 🛠️ Skills
-
-- Python
-- GitHub
-- n8n
-- Lead Generation
-- AI Automation
-
-## 📫 Connect With Me
-
-LinkedIn:
-https://linkedin.com/in/raiza-khalid-8051a3316
+## 🌐 Connect with me
+- LinkedIn: https://www.linkedin.com/in/raiza-khalid-8051a3316
